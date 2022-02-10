@@ -1,9 +1,8 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Its Shardendu!</h1>
 <br>
-## 🚀 About Me
+
+<h1 align="left">🚀 About Me</h1>
 <h3 align="center"></h3>
-<br>
-<br>
 I'm a Sophomore at RGIPT (an INI) pursuing Computer Science Engineering, and learning new skills along the way.
 Working towards my aim to bring about a positive change in this industrial world.
 <br><br>
