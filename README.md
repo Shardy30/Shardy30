@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Its Shardy!</h1>
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Its Shardendu!</h1>
 
 <h3 align="center"></h3>
 <br>
