@@ -7,6 +7,8 @@ I'm a Sophomore at RGIPT (an INI) pursuing Computer Science Engineering, and lea
 Working towards my aim to bring about a positive change in this industrial world.
 <br><br>
 Well versed with C/C++, Python and Java and stepping into the world of Open Source development.
+<br><br>
+- 📫 How to reach me : <a href = "mailto: shardendushekhar30@gmail.com">shardendushekhar30@gmail.com</a>
 <p align="center"> 
   <br>Profile Visits<br>
   <img src="https://profile-counter.glitch.me/shardy30/count.svg"/>
@@ -16,6 +18,7 @@ Well versed with C/C++, Python and Java and stepping into the world of Open Sour
 <a href="https://www.linkedin.com/in/sschaubey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shardy30" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shardy_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shardy_ig" height="30" width="40" /></a>
 <a href="https://twitter.com/Shardendu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shardy30_tw" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shardy30" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_200_200/0/1641201041884?e=1652313600&v=beta&t=MPnEugOfR1BjNqHG8fpslWJv8hGw6rlA_zrDJZ4Iy04" alt="shardy30_cc" height="30" width="40" /></a>
 </p>
 
 <br/>
