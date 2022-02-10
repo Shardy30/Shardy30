@@ -1,12 +1,13 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Its Shardendu!</h1>
-
+<br>
+## 🚀 About Me
 <h3 align="center"></h3>
 <br>
 <br>
-Sophomore at RGIPT (an INI) pursuing Computer Science Engineering, and learning new skills along the way.
+I'm a Sophomore at RGIPT (an INI) pursuing Computer Science Engineering, and learning new skills along the way.
 Working towards my aim to bring about a positive change in this industrial world.
 <br><br>
-Well versed with C/C++ and Java and stepping into the world of Open Source development.
+Well versed with C/C++, Python and Java and stepping into the world of Open Source development.
 <p align="center"> 
   <br>Profile Visits<br>
   <img src="https://profile-counter.glitch.me/shardy30/count.svg"/>
