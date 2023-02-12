@@ -31,5 +31,3 @@ Well versed with C/C++, Python and Java and stepping into the world of Open Sour
 <h1 align="left"> Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shardy30&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="shardy30" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shardy30&theme=tokyonight" alt="shardy30" /></p>
-
