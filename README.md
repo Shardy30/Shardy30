@@ -3,10 +3,7 @@
 
 <h1 align="left">🚀 About Me</h1>
 <h3 align="center"></h3>
-I'm a Sophomore at RGIPT (an INI) pursuing Computer Science Engineering, and learning new skills along the way.
-Working towards my aim to bring about a positive change in this industrial world.
-<br><br>
-Well versed with C/C++, Python and Java and stepping into the world of Open Source development.
+I'm Shardendu, a Data Science Enthusiast from India
 <br><br>
 - 📫 How to reach me : <a href = "mailto: shardendushekhar30@gmail.com">shardendushekhar30@gmail.com</a>
 <p align="center"> 
