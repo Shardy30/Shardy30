@@ -18,16 +18,17 @@ Well versed with C/C++, Python and Java and stepping into the world of Open Sour
 <a href="https://www.linkedin.com/in/sschaubey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shardy30" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shardy_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shardy_ig" height="30" width="40" /></a>
 <a href="https://twitter.com/Shardendu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shardy30_tw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shardy30" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_200_200/0/1641201041884?e=1652313600&v=beta&t=MPnEugOfR1BjNqHG8fpslWJv8hGw6rlA_zrDJZ4Iy04" alt="shardy30_cc" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shardy30" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="shardy30_cf" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/shardy30" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="shardy30_cc" height="30" width="30" /></a>
 </p>
 
 <br/>
 
 <h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/github/explore/blob/main/topics/c/c.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/><a href="https://www.python.org/" target="_blank"> <img src="https://github.com/github/explore/blob/main/topics/python/python.png" alt="matlab" width="40" height="40"/> </a> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/github/explore/blob/main/topics/java/java.png" alt="JAVA" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://github.com" target="_blank"> <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="github" width="40" height="40"/> </a>
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/github/explore/blob/main/topics/python/python.png" alt="python" width="40" height="40"/></a> 
+  <a href="https://openai.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="openai" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/></a> 
+</p>
 
-<br/><br/>
-
-<h1 align="left"> Stats:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shardy30&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="shardy30" /></p>
-
+<br/>
